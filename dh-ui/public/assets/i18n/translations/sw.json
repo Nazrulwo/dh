@@ -1,0 +1,43 @@
+{
+  
+    "hello": "Välkommen till Swedish Dashboard",
+    "thankyou": "Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext.",
+    "text": "Detta är exempeltext SW. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext "
+,
+  
+    "myaccount": "mitt konto",
+    "settings":"inställningar",
+    "support":"Stöd",
+
+    "select_train":"Välj Tåg",
+    "search_train":"Sök Tåg",
+    "location_time":"Plats Och Tid",
+    "event_list":"Händelselista",
+  
+    "showmore":"Visa mer",
+    "showless":"Visa mindre",
+    "dashboard":"Instrumentbräda",
+    "eventlist":"Händelselista",
+    "promptness":"Skyndsamhet",
+    "notice":"Lägga märke till",
+    "simulation":"Simulering",
+    "form":"Form",
+    "personal":"Personlig",
+    "travelerlist":"Reselista",
+    "decision":"Beslut",
+    "analysis":"Analys",
+    "transfers":"överföringar",
+    "cities":"Städer",
+
+    "soktag":"Sök Tåg",
+    "valjtag":"Välj Tåg",
+    "storanalys":"Stor Analys",
+    "platsochtid":"Plats och Tid",
+    "handelse":"Händelse Lista",
+    "area":"Område",
+    "role1":"Roll 1",
+    "role2":"Roll 2",
+    "role3":"Roll 3",    
+    "role4":"Roll 4",
+    "logout":"logga ut"
+}

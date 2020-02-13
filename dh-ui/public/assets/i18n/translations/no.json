@@ -1,0 +1,44 @@
+{
+ 
+    "hello": "Velkommen til Norska Dashboard",
+    "thankyou": "Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst.",
+    "text": "Dette er eksempeltekst NO. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. "
+  ,
+
+    "myaccount": "min konto",
+    "settings":"innstillinger",
+    "support":"Brukerstøtte",
+
+    "select_train":"Nor",
+    "search_train":"Nor",
+    "location_time":"Nor",
+    "event_list":"Nor",
+  
+    "showless":"Vis mindre",
+    "showmore":"Vis mer",
+    "dashboard":"Dashbord",
+    "eventlist":"Hendelsesliste",
+    "promptness":"Punktlighet",
+    "notice":"Legge merke til",
+    "simulation":"Simulering",
+    "form":"Form",
+    "personal":"Personlig",
+    "travelerlist":"Reiseliste",
+    "decision":"this is No",
+    "analysis":"Analyse",
+    "transfers":"Overganger",
+    "cities":"byer",
+    
+    "soktag":"Søk tog",
+    "valjtag":"Velg Tog",
+    "storanalys":"Stor analyse",
+    "platsochtid":"Plassering og tid",
+    "handelse":"Hendelsesliste",
+    "area":"Område",
+    "role1":"Rolle 1",
+    "role2":"Rolle 2",
+    "role3":"Rolle 3",    
+    "role4":"Rolle 4",
+    "logout":"Logg ut"
+}
+

@@ -1,0 +1,46 @@
+{
+ 
+    "hello": "Velkommen til Danska Dashboard",
+    "thankyou": "Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst.",
+    "text": "Dette er eksempeltekst DE. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. Dette er eksempeltekst. Lorem Ipsum er en udfyldende tekst fra trykkeri- og forlagsbranchenekst. "
+  ,
+  
+    "myaccount": "Mijn rekening",
+    "settings":"Instellingen",
+    "support":"Ondersteuning",
+
+    "select_train":"Detch",
+    "search_train":"Detch",
+    "location_time":"Detch",
+    "event_list":"Detch",
+
+  
+    "showmore":"Vis mere",
+    "showless":"Vis mindre",
+    "dashboard":"Instrumentbræt",
+    "eventlist":"Eventliste",
+    "promptness":"Hurtighed",
+    "notice":"varsel",
+    "simulation":"Simulering",
+    "form":"Form",
+    "personal":"Personal",
+    "travelerlist":"Travelerlist",
+    "decision":"Afgørelse",
+    "analysis":"Analyse",
+    "transfers":"Overførsler",
+    "travelerlist":"travelerlist",
+    "cities":"Byer",
+
+    "soktag":"Søg tog",
+    "valjtag":"Vælg Tog",
+    "storanalys":"Fantastisk analyse",
+    "platsochtid":"Placering og tid",
+    "handelse":"Begivenhedsliste",
+    "area":"Område",
+    "role1":"Rolle 1",
+    "role2":"Rolle 2",
+    "role3":"Rolle 3",    
+    "role4":"Rolle 4",
+    "logout":"Log ud"
+}
+

@@ -1,0 +1,15 @@
+{
+  "boxes" :{
+    "hello": "Välkommen till Swedish Dashboard",
+    "thankyou": "Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext.",
+    "text": "Detta är exempeltext SW. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext. Detta är exempeltext. Lorem Ipsum is a filling text from the printing and publishing industryext "
+  },
+  "topbar":{
+    "myaccount": "mitt konto",
+    "settings":"inställningar",
+    "support":"Stöd"
+  },
+  "sidebar": {
+    "soktag": "Sök Tåg"
+  }
+}

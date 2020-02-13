@@ -1,0 +1,42 @@
+{
+  "hello": "Welcome to English Dashboard",
+  "thankyou": "This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. ",
+  "text": "This is sample text EN. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. This is sample text. Lorem Ipsum is a filling text from the printing and publishing industryext. ",
+  "myaccount": "My Account",
+  "settings":"Settings",
+  "support":"Supportdd",
+
+  "select_train":"Select Train",
+  "search_train":"Search Train",
+  "location_time":"Location And Time",
+  "event_list":"event List",
+
+  
+  "showmore":"Show More",
+  "showless":"Show Less",
+  "dashboard":"Dashboard",
+  "eventlist":"Event List",
+  "promptness":"Promptness",
+  "notice":"Notice",
+  "simulation":"Simulation",
+  "form":"Form",
+  "personal":"Personal",
+  "travelerlist":"Traveler List",
+  "decision":"Decision",
+  "analysis":"Analysis",
+  "transfers":"Transfers",
+  "travelerlist":"Travelerlist",
+  "cities":"Cities",
+
+  "soktag":"Search Train",
+  "valjtag":"Select Train",
+  "storanalys":"Great Analysis",
+  "platsochtid":"Location and Time",
+  "handelse":"Händelse Lista",
+  "area":"Area",
+  "role1":"Role 1",
+  "role2":"Role 2",
+  "role3":"Role 3",    
+  "role4":"Role 4",
+  "logout":"Logout"
+}

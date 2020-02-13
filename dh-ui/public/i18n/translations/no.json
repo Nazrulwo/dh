@@ -1,0 +1,16 @@
+{
+  "boxes" :{
+    "hello": "Velkommen til Norska Dashboard",
+    "thankyou": "Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst.",
+    "text": "Dette er eksempeltekst NO. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. Dette er eksempeltekst. Lorem Ipsum er en utfyllende tekst fra trykkeri- og forlagsbransjenekst. "
+  },
+  "topbar":{
+    "myaccount": "min konto",
+    "settings":"innstillinger",
+    "support":"Brukerstøtte"
+  },
+  "sidebar": {
+    "soktag": "Søk tog"
+  }
+}
+
