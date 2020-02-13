@@ -9,5 +9,4 @@ public class DhBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DhBackendApplication.class, args);
 	}
-
 }
