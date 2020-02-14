@@ -1,7 +1,5 @@
 package com.dh.dhbackend.services;
 
-import java.util.Optional;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -22,9 +20,18 @@ import com.dh.dhbackend.utils.PasswordUtils;
 @Service
 public class UserService {
 
+	/**
+	 * The user repository
+	 */
 	@Autowired
 	private UserRepository userRepository;
 
+	/**
+	 * Maps the user registration request to the user model
+	 * 
+	 * @param userRegistrationRequest The user registration request
+	 * @return The user instance
+	 */
 	private User mapRequest(UserRegistrationRequest userRegistrationRequest) {
 
 		User user = new User();
@@ -33,17 +40,29 @@ public class UserService {
 		return user;
 	}
 
+	/**
+	 * Registers a user
+	 * 
+	 * @param userRequest The user request
+	 * @return The registration status
+	 */
 	@Transactional
 	public User register(UserRegistrationRequest userRequest) {
 
-		Optional<User> existingUser = userRepository.findOneByUsername(userRequest.getUsername());
-		if (existingUser.isPresent()) {
+		userRepository.findOneByUsername(userRequest.getUsername()).ifPresent(e -> {
 			throw new DuplicateUserException(
 					String.format("User with username %s already exists in the DB", userRequest.getUsername()));
-		}
+		});
 		return userRepository.save(this.mapRequest(userRequest));
 	}
 
+	/**
+	 * Authenticates the login request
+	 * 
+	 * @param loginRequest The login request
+	 * @return The authentication status
+	 */
+	@Transactional
 	public LoginResponse authenticateUser(LoginRequest loginRequest) {
 
 		User existingUser = userRepository.findOneByUsernameAndPassword(loginRequest.getUsername(),
