@@ -18,7 +18,7 @@ import lombok.ToString;
  * The entity User. It holds the information of an user.
  */
 @Entity
-@Table(name = "user")
+@Table(name = "users")
 @Data
 @Builder
 @NoArgsConstructor

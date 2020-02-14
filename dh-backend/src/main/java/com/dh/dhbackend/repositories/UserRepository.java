@@ -15,4 +15,6 @@ import com.dh.dhbackend.models.User;
 public interface UserRepository extends JpaRepository<User, Long> {
 
 	Optional<User> findOneByUsername(String username);
+
+	Optional<User> findOneByUsernameAndPassword(String username, String password);
 }
