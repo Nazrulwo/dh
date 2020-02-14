@@ -120,3 +120,10 @@ To switch to the created database
 ```sql
 \c dhdb
 ```
+
+### Running the backend service
+Go to dh-backend and run the following command:
+```
+mvn spring-boot:run &
+```
+Note: The service will run on port 9090, which can be changed in `src/main/resources/application.properties`
