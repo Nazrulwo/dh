@@ -91,3 +91,32 @@ Validations:
     ]
 }
 ```
+
+## DB configuration
+Run the following commands to create database and the `users` table
+```mysql
+CREATE DATABASE dhdb; 
+
+CREATE TABLE users 
+  ( 
+     id          SERIAL PRIMARY KEY, 
+     username    VARCHAR(100), 
+     password    VARCHAR(128) 
+  ); 
+```
+To run the psql
+```sh
+sudo /etc/init.d/postgresql start
+```
+To switch to `postgres` user
+```sh
+sudo su - postgres
+```
+To create new role
+```sql
+CREATE ROLE your_username WITH LOGIN CREATEDB ENCRYPTED PASSWORD 'your_password';
+```
+To switch to the created database
+```sql
+\c dhdb
+```
